@@ -529,4 +529,5 @@ arr.splice([start]], [delete,Count, newElements])- Добавление неск
 // console.log(res);
 
 var x = 6;
-console.log((254).toString());
+// console.log((254).toString());
+console.log("123");
